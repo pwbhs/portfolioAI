@@ -1,8 +1,8 @@
 "use client";
 import { useState } from "react";
 import Image from "next/image";
-import portrait from '../public/imgs/portrait.png';
-import java from '../public/imgs/java.png';
+import portrait from '../Public/imgs/portrait.png';
+import java from '/public/imgs/java.png';
 import aws from '../public/imgs/AWS.png';
 
 export default function Home() {
