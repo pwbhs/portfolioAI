@@ -102,17 +102,18 @@ export default function Home() {
                         </div>
                         <div className="social-links">
                             <a href="https://www.linkedin.com/in/wenbo-peng-94577223b"  target="_blank">
-                                <img src="./imgs/linkedin.png"  alt="LinkedIn" width="38" />
+                                <Image src="/imgs/linkedin.png"  alt="LinkedIn" width={38} height={38}  />
                             </a>
                             <a href="#">
-                                <img src="./imgs/github.png" alt="Github" width="38" />
+                                <Image src="/imgs/github.png" alt="Github" width={38} height={38}  />
                             </a>
                         </div>
                     </div>
 
                 </div>
                 <div className="hero-yellow">
-                    <img src="./imgs/portrait.png" alt="Wenbo Peng" width="100%" />
+                    <Image src="/imgs/portrait.png" alt="Wenbo Peng" width={0} height={0} 
+                        sizes="100vw" style={{ width: '100%', height: 'auto' }} />
                 </div>
 
 
