@@ -46,7 +46,7 @@ export default function Home() {
     <>
       <header>
         <a href="#" className="logo-holder">
-            <div className="logo">L</div>
+            <div className="logo">WP</div>
             <div className="logo-text">Profolio Website</div>
 
         </a>
@@ -315,10 +315,10 @@ export default function Home() {
                     Completed Projects
                 </h2>
                 <div className="bento-grid">
-                    <a href="#" className="bento-item">
+                    <a href="https://ambitious-ground-04bd38a0f.5.azurestaticapps.net/" className="bento-item">
                         <img src="./imgs/eCommerceApp.png" alt="eCommerceApp" width="100%" />
                     </a>
-                    <a href="#" className="bento-item">
+                    <a href="./Dream Development Project Report.pdf" className="bento-item">
                         <img src="./imgs/Project management.png" alt="Project Management System" width="100%" />
                     </a>
                     <a href="#" className="bento-item">
