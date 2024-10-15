@@ -122,7 +122,7 @@ During my university years, I gained valuable experience in agile teams, utilizi
 
 const DATA_HOBBIES =
 `
-My free time hobbies are photography, cooking, badminton and playing games. 
+My free time hobbies are traveling, photography, cooking, badminton and playing games. 
 I love magnificent landscapes and humanistic photography with a sense of storytelling, 
 and I will follow up with a personal gallery page to showcase my photography. 
 I also like to experiment with recipes and adapt them to my own and my family's tastes.
