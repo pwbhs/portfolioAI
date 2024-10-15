@@ -54,10 +54,10 @@ Canada Work Authorization (PR Holder)
 wenbopeng00@gmail.com || (873) 288-6426 || linkedin.com/in/wenbo-peng-94577223b || https://pwbhs.com 
 
 SKILLS
-Back-End:                  Java, Spring Boot, Spring Framework, Spring Cloud, C#, .Net Core, MyBatis, Hibernate, REST
-Front-End:                 Angular, React, JavaScript, JSP, HTML5, CSS, jQuery, AJAX, TypeScript, Thymeleaf, Bootstrap
-Database & Clouds:  MySQL, SQL Server, PostgreSQL, SQL Server, MongoDB, Azure, AWS, Microservice, Docker
-Tools & Others:         Git, CI/CD, Jenkins, Redis, JSON/XML, Linux, Maven, Agile, TDD, DevOps, Kubernetes, JUnit
+Back-End:                  Java, Spring Boot, Spring Framework, C#, .Net Core, Node.js, Express, Kotlin, MyBatis, Hibernate, REST
+Front-End:                 Angular, React, Nesxt, JavaScript, JSP, HTML5, CSS, jQuery, AJAX, TypeScript, Thymeleaf, Bootstrap
+Database & Clouds:         MySQL, SQL Server, PostgreSQL, SQL Server, MongoDB, Azure, AWS, Spring Cloud, Microservice, Docker
+Tools & Others:            Git, CI/CD, Jenkins, Redis, JSON/XML, Linux, Maven, Agile, TDD, DevOps, Kubernetes, JUnit
 
 
 EDUCATION
