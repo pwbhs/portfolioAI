@@ -1,9 +1,6 @@
 "use client";
 import { useState } from "react";
 import Image from "next/image";
-import portrait from '../public/imgs/portrait.png';
-import java from '/public/imgs/java.png';
-import aws from '../public/imgs/AWS.png';
 
 export default function Home() {
 
@@ -105,18 +102,17 @@ export default function Home() {
                         </div>
                         <div className="social-links">
                             <a href="https://www.linkedin.com/in/wenbo-peng-94577223b"  target="_blank">
-                                <Image src="/imgs/linkedin.png"  alt="LinkedIn" width={38} height={38}  />
+                                <img src="./imgs/linkedin.png"  alt="LinkedIn" width="38" />
                             </a>
                             <a href="#">
-                                <Image src="/imgs/github.png" alt="Github" width={38} height={38}  />
+                                <img src="./imgs/github.png" alt="Github" width="38" />
                             </a>
                         </div>
                     </div>
 
                 </div>
                 <div className="hero-yellow">
-                    <Image src={portrait} alt="Wenbo Peng" width={0} height={0} 
-                        layout="responsive" />
+                    <img src="./imgs/portrait.png" alt="Wenbo Peng" width="100%" />
                 </div>
 
 
@@ -125,7 +121,7 @@ export default function Home() {
             <section className="logos container"> 
                 <div className="marquee">
                     <div className="track">
-                        <Image src={java} alt="java" width={60} height={0}  style={{marginLeft: '12px', marginRight: '12px' }}  />
+                        <img src="./imgs/java.png" alt="java" width="60" style={{marginLeft: '12px', marginRight: '12px' }}  />
                         <img src="./imgs/Csharp.png" alt="Csharp" width="97" />
                         <img src="./imgs/Spring.png" alt="Spring" width="110" />
                         <img src="./imgs/NET_Core.png" alt="Net Core" width="100" />
@@ -137,7 +133,7 @@ export default function Home() {
                         <img src="./imgs/MySQL.png" alt="MySQL" width="100" />
                         <img src="./imgs/sql-server.png" alt="SQLServer" width="100" />
                         <img src="./imgs/Mongodb.png" alt="MongoDB" width="100" style={{marginLeft: '-4px', marginRight: '-3px' }} />
-                        <Image src="/imgs/AWS.png" alt="AWS" width="110"  height={50} />
+                        <img src="./imgs/AWS.png" alt="AWS" width="110" />
                         <img src="./imgs/azure.png" alt="azure" width="98" />
                         <img src="./imgs/Angular.png" alt="Angular" width="95" />
                         <img src="./imgs/react.png" alt="react" width="100" />
@@ -147,7 +143,7 @@ export default function Home() {
                         <img src="./imgs/Jenkins.png" alt="Jenkins" width="78" />
 
                         {/* 为了重复滚动 */}
-                        <Image src={java} alt="java" width={60} height={0} style={{marginLeft: '12px', marginRight: '12px' }} />
+                        <img src="./imgs/java.png" alt="java" width="60" style={{marginLeft: '12px', marginRight: '12px' }} />
                         <img src="./imgs/Csharp.png" alt="Csharp" width="97" />
                         <img src="./imgs/Spring.png" alt="Spring" width="110" />
                         <img src="./imgs/NET_Core.png" alt="Net Core" width="100" />
