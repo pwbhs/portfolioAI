@@ -107,6 +107,9 @@ export default function Home() {
                             <a href="#">
                                 <img src="./imgs/github.png" alt="Github" width="38" />
                             </a>
+                            <a href="https://www.credly.com/badges/518dcf99-1677-4e5c-9fc2-000e08e2b967/public_url" target="_blank">
+                                <img src="./imgs/credly_logo.png" alt="Credly" width="38" style={{marginLeft: '5px', marginRight: '5px' }} />
+                            </a>
                         </div>
                     </div>
 
@@ -133,6 +136,7 @@ export default function Home() {
                         <img src="./imgs/MySQL.png" alt="MySQL" width="100" />
                         <img src="./imgs/sql-server.png" alt="SQLServer" width="100" />
                         <img src="./imgs/Mongodb.png" alt="MongoDB" width="100" style={{marginLeft: '-4px', marginRight: '-3px' }} />
+                        <img src="./imgs/AWS_certified.png" alt="AWS_certified" width="85" />
                         <img src="./imgs/AWS.png" alt="AWS" width="110" />
                         <img src="./imgs/azure.png" alt="azure" width="98" />
                         <img src="./imgs/Angular.png" alt="Angular" width="95" />
@@ -155,6 +159,7 @@ export default function Home() {
                         <img src="./imgs/MySQL.png" alt="MySQL" width="100" />
                         <img src="./imgs/sql-server.png" alt="SQLServer" width="100" />
                         <img src="./imgs/Mongodb.png" alt="MongoDB" width="100" style={{marginLeft: '-4px', marginRight: '-3px' }} />
+                        <img src="./imgs/AWS_certified" alt="AWS_certified" width="85" />
                         <img src="./imgs/AWS.png" alt="AWS" width="110" />
                         <img src="./imgs/azure.png" alt="azure" width="98" />
                         <img src="./imgs/Angular.png" alt="Angular" width="95" />
@@ -227,11 +232,11 @@ export default function Home() {
                             and Cloud development, and AI topics.
                         </p>
                         <p>
-                            I am an positive, responsible, and dedicated individual actively seeking opportunities in 
-                            <span className="highlight">Full Stack</span>, <span className="highlight">Back End</span>, 
+                            I am an positive, responsible, and dedicated individual actively seeking opportunities in  
+                            <span className="highlight"> Full Stack</span>, <span className="highlight">Back End</span>, 
                             <span className="highlight">Cloud Development</span>, <span className="highlight">DevOps</span>, and <span className="highlight">Quality Assurance</span>. 
-                            With a strong work ethic and passion for solving complex technical challenges, 
-                            I am committed to delivering high-quality solutions that drive success.
+                            With a strong work ethic and a passion for solving complex technical challenges, I’m committed to delivering high-quality solutions that drive success. 
+                            I am also an <a href="AWS Certified Developer - Associate.pdf" target="_blank">AWS Certified Developer – Associate</a>, which has enhanced my capabilities in cloud-native applications and scalable architecture.
 
                         </p>
                     </div>

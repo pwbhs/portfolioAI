@@ -51,7 +51,7 @@ export async function POST(req)  {
 const DATA_RESUME = 
 `Wenbo Peng
 Canada Work Authorization (PR Holder)
-wenbopeng00@gmail.com || (873) 288-6426 || linkedin.com/in/wenbo-peng-94577223b || https://pwbhs.com 
+wenbopeng00@gmail.com || (873) 288-6426 || linkedin.com/in/wenbo-peng-94577223b || https://pwbhs.com ||  AWS Certified Developer - Associate
 
 SKILLS
 Back-End:                  Java, Spring Boot, Spring Framework, C#, .Net Core, Node.js, Express, Kotlin, MyBatis, Hibernate, REST
